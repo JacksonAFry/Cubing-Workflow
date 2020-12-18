@@ -13,3 +13,5 @@ ICS4U assignment
 |Yes | Bob Burton's Method | 6 | 36.568 |
 |Yes | Bob Burton's Method | 7 | 40.17 |
 
+### How have I improved?
+I can now find patterns and apply solutions much faster than before.
